@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am an accomplished Senior Full Stack Developer, specializing in C# and .NET platforms, with 10+ years of experience in designing and implementing unique software solutions.
+
+My technical expertise is extensive, encompassing a broad spectrum of technologies such as C#, .NET Framework, .NET Core, ASP.NET MVC, Entity Framework, Blazor, WPF, and SQL Server.
+
+Moreover, my skills stretch into the realm of front-end development, where I demonstrate proficiency in HTML, CSS, JavaScript, along with contemporary frameworks like Angular, React, and Vue.js, thereby facilitating a smooth user experience.In terms of cloud technologies, I exhibit a particular knack for Azure and AWS, integrating applications with cloud-centric features.
+
+I have garnered a reputation for steering projects from inception to deployment, maintaining strict adherence to coding best practices, rigorous testing, and Agile methodologies.My well-honed problem-solving abilities, complemented by my effective communication skills, enable me to foster a collaborative environment with teams and stakeholders, delivering solutions that align with business objectives.
